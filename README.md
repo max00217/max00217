@@ -1,4 +1,4 @@
-# Hi there, I'm Minauroht_ 👋
+# Hi there, I'm Minaroht 👋
 
 🔨 I'm skilled in:
 
@@ -13,11 +13,27 @@
 
 👯 Feel free to reach out to me and collaborate on any exciting projects.
 
-📫 You can contact me through my social profiles or send me an email at: minauroht@example.com
+📫 You can contact me through my social profiles or send me an email at: minaroht@example.com
 
 ---
 
-[![Minauroht_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Minauroht&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minauroht_&layout=compact)](https://github.com/Minauroht/)
+[![Minaroht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minaroht&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minaroht&layout=compact)](https://github.com/Minaroht/)
+
+---
+
+### 📊 WakaTime Stats:
+
+[![Minaroht's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Minaroht)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ⚡ Fun Facts:
+
+- 🏃‍♂️ I love running
+- 🚴‍♀️ I enjoy cycling
+- 🌍 I'm passionate about learning new languages and exploring the world
 
