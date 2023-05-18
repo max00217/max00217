@@ -14,3 +14,10 @@
 👯 Feel free to reach out to me and collaborate on any exciting projects.
 
 📫 You can contact me through my social profiles or send me an email at: minauroht@example.com
+
+---
+
+[![Minauroht_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Minauroht_&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minauroht_&layout=compact)](https://github.com/Minauroht_/)
+
