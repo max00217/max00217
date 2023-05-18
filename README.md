@@ -27,18 +27,18 @@
 
 ### 📈 GitHub Stats:
 
-[![Minauroht_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Minauroht_&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Minauroht_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Minauroht&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minauroht_&layout=compact&theme=dark)](https://github.com/Minauroht_/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minauroht&layout=compact&theme=dark)](https://github.com/Minauroht/)
 
 ### 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Minauroht_&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Minauroht&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🧾 Streak Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Minauroht_&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Minauroht&theme=dark)](https://git.io/streak-stats)
 
 ### 👀 Profile Views:
 
-![](https://komarev.com/ghpvc/?username=Minauroht_&color=grey)
+![](https://komarev.com/ghpvc/?username=Minauroht&color=grey)
