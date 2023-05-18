@@ -1,4 +1,6 @@
-# Hi there, I'm Minauroht_ 👋
+<div align="center">
+  # Hi there, I'm Minauroht_ 👋
+</div>
 
 🔨 I'm skilled in:
 
