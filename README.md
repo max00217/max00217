@@ -1,4 +1,4 @@
-# Hi there, I'm Minaroht 👋
+# Hi there, I'm Minauroht 👋
 
 🔨 I'm skilled in:
 
@@ -13,21 +13,21 @@
 
 👯 Feel free to reach out to me and collaborate on any exciting projects.
 
-📫 You can contact me through my social profiles or send me an email at: minaroht@example.com
+📫 You can contact me through my social profiles or send me an email at: Minauroht@example.com
 
 ---
 
 ### 📈 GitHub Stats:
 
-[![Minaroht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minaroht&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Minauroht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minauroht&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minaroht&layout=compact)](https://github.com/Minaroht/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minauroht&layout=compact)](https://github.com/Minauroht/)
 
 ---
 
 ### 📊 WakaTime Stats:
 
-[![Minaroht's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Minaroht)](https://github.com/anuraghazra/github-readme-stats)
+[![Minauroht's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Minauroht)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
