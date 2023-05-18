@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
-  <img height="64px" src="https://seeklogo.com/images/L/luvit-logo-1C6575B5AA-seeklogo.com.png" />
+  <img height="64px" src="https://luvit.io/logo-white.svg" />
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
