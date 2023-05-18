@@ -11,10 +11,10 @@
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 
-### Frameworks & Tools:
+### Technologies & Frameworks:
 
 <div align="center">
-  <img height="64px" src="https://love2d.org/wiki/images/thumb/6/68/Love2d_logo_plain.svg/800px-Love2d_logo_plain.svg.png" />
+  <img height="64px" src="https://love2d.org/wiki/images/thumb/6/68/Love2d_logo_plain.svg/800px-Love2d_logo_plain.svg" />
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
