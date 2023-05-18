@@ -16,7 +16,7 @@
 <div align="center">
   <img height="64px" src="https://love2d.org/w/images/6/68/love-app-0.10.png" />
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img height="64px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
 </div>
 
 🌱 I'm currently learning more about software development and expanding my skills in various languages.
