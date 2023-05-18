@@ -2,7 +2,7 @@
 
 🔨 I'm skilled in:
 
-==========
+----------
 ### Languages:
 
 <div align="center">
@@ -11,7 +11,7 @@
   <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-==========
+----------
 ### Technologies & Frameworks:
 
 <div align="center">
