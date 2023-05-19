@@ -3,7 +3,7 @@
 <p align="center">
     <b>Here is my Profile, README.md!</b><br><br>
     <i>
-        I'm Minauroht_.<br>
+        Here is Crescent<br>
         🌙 Developing in Lua<br>
     </i><br>
 <!--     <a href="https://www.linkedin.com/in/minauroht">
