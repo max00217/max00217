@@ -1,7 +1,7 @@
 <h1 align="center">Hello, There! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Here is my Profile README.md!</b><br><br>
+    <b>Here is my Profile, README.md!</b><br><br>
     <i>
         I'm Minauroht_.<br>
         Open to collaborating on interesting and innovative projects.<br>
