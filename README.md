@@ -1,4 +1,4 @@
-<h1 align="center">Hello, There! <img src="https://github.com/Minauroht/Minauroht/blob/main/1CFC6F34-BB31-40F6-AA72-DE250F097A90.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, There! <img src="https://github.com/Minauroht/Minauroht/blob/main/1CFC6F34-BB31-40F6-AA72-DE250F097A90.gif" width="48px" alt="👋"></h1>
 
 <p align="center">
     <b>Here is my Profile, README.md!</b><br><br>
@@ -6,7 +6,7 @@
         I'm Minauroht_.<br>
         🌙 Developing in Lua<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/minauroht">
+<!--     <a href="https://www.linkedin.com/in/minauroht">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/minauroht">
@@ -17,7 +17,7 @@
     </a>
     <a href="https://leetcode.com/minauroht">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+    </a> -->
 </p>
 
 ### Languages
