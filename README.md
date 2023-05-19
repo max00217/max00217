@@ -4,7 +4,7 @@
     <b>Here is my Profile, README.md!</b><br><br>
     <i>
         I'm Minauroht_.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        🌙 Developing in Lua<br>
     </i><br>
     <a href="https://www.linkedin.com/in/minauroht">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
