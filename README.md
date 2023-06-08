@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/minauroht">
-    <img src="https://komarev.com/ghpvc/?username=minauroht&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=minauroht&color=#008080&style=flat)" />
   </a>
 </p>
 <!--
