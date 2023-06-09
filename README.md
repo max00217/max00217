@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minauroht&langs_count=8&exclude_repo=Smarteen-App-Challange&theme=transparent&hide_border=true"/>
   </a>
   <a href="https://github.com/minauroht">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minauroht"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Minauroht"/>
   </a>
 </p>
 </details>
