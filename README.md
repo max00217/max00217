@@ -48,14 +48,15 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minauroht&theme=transparent" />
   </a>
   <a href="https://github.com/minauroht">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minauroht&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minauroht&langs_count=8&exclude_repo=Smarteen-App-Challange&theme=transparent&hide_border=true"/>
+  </a>
+  <a href="https://github.com/minauroht">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minauroht"/>
   </a>
 </p>
 </details>
-
-<p align="center">
   <a href="https://github.com/minauroht">
-    <img src="https://komarev.com/ghpvc/?username=minauroht&color=#008080&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=minauroht&color=blue&style=flat)" />
   </a>
 </p>
 <!--
