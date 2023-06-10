@@ -1,10 +1,10 @@
-<h1 align="center">Hello, There! <img src="https://github.com/Minauroht/Minauroht/blob/main/1CFC6F34-BB31-40F6-AA72-DE250F097A90.gif" width="48px" alt="👋"></h1>
+<h1 align="center">[text] <img src="https://github.com/Minauroht/Minauroht/blob/main/1CFC6F34-BB31-40F6-AA72-DE250F097A90.gif" width="48px" alt="👋"></h1>
 
 <p align="center">
-    <b>Here is my Profile, README.md!</b><br><br>
+    <b>README.md</b><br><br>
     <i>
-        Here is Crescent<br>
-        🌙 Developing in Lua<br>
+       <br>
+        🌙<br>
     </i><br>
 <!--     <a href="https://www.linkedin.com/in/minauroht">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
