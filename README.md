@@ -26,6 +26,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/minauroht)
 
 ### Technologies & Frameworks
+[![LuaJIT](https://img.shields.io/badge/LuaJIT-black?style=for-the-badge&logo=LuaJIT)](https://github.com/minauroht)
 [![Löve](https://img.shields.io/badge/Löve-black?style=for-the-badge&logo=Löve)](https://github.com/minauroht)
 [![Luvit](https://img.shields.io/badge/Luvit-black?style=for-the-badge&logo=Luvit)](https://github.com/minauroht)
 [![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/minauroht)
