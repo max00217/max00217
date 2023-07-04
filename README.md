@@ -40,35 +40,26 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/minauroht">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minauroht&theme=transparent" />
+  <a href="https://github.com/max00217">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max00217&theme=transparent" />
   </a>
-  <a href="https://github.com/minauroht">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minauroht&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/max00217">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=max00217&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/minauroht">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minauroht&theme=transparent" />
+  <a href="https://github.com/max00217">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max00217&theme=transparent" />
   </a>
-  <a href="https://github.com/minauroht">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minauroht&langs_count=8&exclude_repo=Smarteen-App-Challange&theme=transparent&hide_border=true"/>
+  <a href="https://github.com/max00217">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max00217&langs_count=8&exclude_repo=Smarteen-App-Challange&theme=transparent&hide_border=true"/>
   </a>
-  <a href="https://github.com/minauroht">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Minauroht&theme=transparent&hide_border=true"/>
+  <a href="https://github.com/max00217">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=max00217&theme=transparent&hide_border=true"/>
   </a>
 </p>
 </details>
-  <a href="https://github.com/minauroht">
-    <img src="https://komarev.com/ghpvc/?username=minauroht&color=blue&style=flat)" />
+  <a href="https://github.com/max00217">
+    <img src="https://komarev.com/ghpvc/?username=max00217&color=blue&style=flat)" />
+    <div>
+    <img src="https://wakatime.com/badge/user/3e981f98-c734-43e3-a447-5ad2ca03d5f6.svg" alt="wakatime" />
   </a>
 </p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
