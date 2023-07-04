@@ -5,17 +5,18 @@
     <i>
        <br>
         🌙<br>
-    </i><br>
+    </i>
+    <br>
 </p>
 
-# Tech Stacks
+<h1 align="center">Tech Stacks</h1>
 
 ### Languages
 [![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge&labelColor=black&logo=lua)](http://www.lua.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 
-### ~Languages
+### ~Language
 [![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
 
 ### Technologies & Frameworks
