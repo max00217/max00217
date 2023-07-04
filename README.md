@@ -59,7 +59,8 @@
 </details>
   <a href="https://github.com/max00217">
     <img src="https://komarev.com/ghpvc/?username=max00217&color=blue&style=flat)" />
-    <div>
+    <div href="https://github.com/max00217">
     <img src="https://wakatime.com/badge/user/3e981f98-c734-43e3-a447-5ad2ca03d5f6.svg" alt="wakatime" />
+    </div>
   </a>
 </p>
