@@ -19,9 +19,9 @@
 [![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
 
 ### Technologies & Frameworks
-[![LuaJIT](https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&logo=LuaJIT)](https://luajit.org/)
-[![Löve](https://img.shields.io/badge/Löve-e74a99?style=for-the-badge&logo=Löve)](https://love2d.org/)
-[![Luvit](https://img.shields.io/badge/Luvit-047697?style=for-the-badge&logo=Luvit)](https://luvit.io/)
+[![LuaJIT](https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&labelColor=black&logo=Lua)](https://luajit.org/)
+[![Löve](https://img.shields.io/badge/Löve-e74a99?style=for-the-badge&labelColor=black&logo=Lua)](https://love2d.org/)
+[![Luvit](https://img.shields.io/badge/Luvit-047697?style=for-the-badge&labelColor=black&logo=Lua)](https://luvit.io/)
 [![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&labelColor=black&logo=git)](https://luvit.io/)
 [![Github](https://img.shields.io/badge/github-darkgray?style=for-the-badge&labelColor=black&logo=github)](https://luvit.io/)
 
