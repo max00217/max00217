@@ -8,27 +8,31 @@
     </i><br>
 </p>
 
+# Tech Stacks
+
 ### Languages
-[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](http://www.lua.org/)
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge&labelColor=black&logo=lua)](http://www.lua.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 
 ### ~Languages
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
+[![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
 
 ### Technologies & Frameworks
-[![LuaJIT](https://img.shields.io/badge/LuaJIT-black?style=for-the-badge&logo=LuaJIT)](https://luajit.org/)
-[![Löve](https://img.shields.io/badge/Löve-black?style=for-the-badge&logo=Löve)](https://love2d.org/)
-[![Luvit](https://img.shields.io/badge/Luvit-black?style=for-the-badge&logo=Luvit)](https://luvit.io/)
+[![LuaJIT](https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&logo=LuaJIT)](https://luajit.org/)
+[![Löve](https://img.shields.io/badge/Löve-e74a99?style=for-the-badge&logo=Löve)](https://love2d.org/)
+[![Luvit](https://img.shields.io/badge/Luvit-047697?style=for-the-badge&logo=Luvit)](https://luvit.io/)
+[![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&labelColor=black&logo=git)](https://luvit.io/)
+[![Github](https://img.shields.io/badge/github-darkgray?style=for-the-badge&labelColor=black&logo=github)](https://luvit.io/)
 
 ### IDE
-[![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![intellijidea](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/lp/toolbox/)
-[![pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/lp/toolbox/)
+[![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-0076c6?style=for-the-badge&labelColor=black&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![intellijidea](https://img.shields.io/badge/intellijidea-df8037?style=for-the-badge&labelColor=black&logo=intellijidea)](https://www.jetbrains.com/lp/toolbox/)
+[![pycharm](https://img.shields.io/badge/pycharm-21d789?style=for-the-badge&labelColor=black&logo=pycharm)](https://www.jetbrains.com/lp/toolbox/)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://www.microsoft.com/en-us/windows/)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://linuxmint.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
+[![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&labelColor=black&logo=Linux)](https://linuxmint.com/)
 
 <details>https://www.youtube.com/watch?v=dQw4w9WgXcQ
 <p align="center">
