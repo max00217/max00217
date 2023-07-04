@@ -34,7 +34,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
 [![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&labelColor=black&logo=Linux)](https://linuxmint.com/)
 
-<details>https://www.youtube.com/watch?v=dQw4w9WgXcQ
+<details>
 <p align="center">
   <a href="https://github.com/max00217">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max00217&theme=transparent" />
