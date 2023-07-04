@@ -12,19 +12,19 @@
 <h1 align="center">Tech Stacks</h1>
 
 ### Languages
-[![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge&labelColor=black&logo=lua)](http://www.lua.org/)
-[![Kotlin](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
-[![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
+<a href="http://www.lua.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=black&logo=Lua" alt="Lua"></a>
+[![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 
 ### ~Language
-[![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
+[![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
 
 ### Technologies & Frameworks
-[![LuaJIT](https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&labelColor=black&logo=Lua)](https://luajit.org/)
+[![LuaJIT](https://img.shields.io/badge/LuaJIT-2C2D72?style=for-the-badge&labelColor=black&logo=Lua)](https://luajit.org/)
 [![Löve](https://img.shields.io/badge/Löve-e74a99?style=for-the-badge&labelColor=black&logo=Lua)](https://love2d.org/)
 [![Luvit](https://img.shields.io/badge/Luvit-047697?style=for-the-badge&labelColor=black&logo=Lua)](https://luvit.io/)
-[![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&labelColor=black&logo=git)](https://luvit.io/)
-[![Github](https://img.shields.io/badge/github-darkgray?style=for-the-badge&labelColor=black&logo=github)](https://luvit.io/)
+[![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&labelColor=black&logo=git)](https://git-scm.com)
+[![Github](https://img.shields.io/badge/github-darkgray?style=for-the-badge&labelColor=black&logo=github)](https://github.com)
 
 ### IDE
 [![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-0076c6?style=for-the-badge&labelColor=black&logo=visualstudiocode)](https://code.visualstudio.com/)
@@ -55,7 +55,8 @@
 </p>
 </details>
   <a href="https://github.com/max00217">
-    <img src="https://komarev.com/ghpvc/?username=max00217&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=max00217&color=738a94&style=flat)" />
+      <img src="https://img.shields.io/github/followers/max00217?color=738a94" />
     <div href="https://github.com/max00217">
     <img src="https://wakatime.com/badge/user/3e981f98-c734-43e3-a447-5ad2ca03d5f6.svg" alt="wakatime" />
     </div>
