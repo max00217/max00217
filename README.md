@@ -36,7 +36,7 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
-[![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&labelColor=black&logo=Linux)](https://linuxmint.com/)
+[![LinuxMint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&labelColor=black&logo=Linuxmint)](https://linuxmint.com)
 
 <details>
 <p align="center">
