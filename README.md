@@ -11,6 +11,7 @@
 
 ### Languages
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=black&logo=Lua)](https://www.lua.org)
+[![V](https://img.shields.io/badge/V-5D87BF?style=for-the-badge&labelColor=black&logo=V)](https://www.lua.org)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript)](https://www.python.org/)
