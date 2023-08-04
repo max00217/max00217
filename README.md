@@ -11,7 +11,7 @@
 
 ### Languages
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=black&logo=Lua)](https://www.lua.org)
-[![V](https://img.shields.io/badge/V-5D87BF?style=for-the-badge&labelColor=black&logo=V)](https://www.lua.org)
+[![V](https://img.shields.io/badge/V-5D87BF?style=for-the-badge&labelColor=black&logo=V)](https://vlang.io)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript)](https://www.python.org/)
@@ -32,6 +32,7 @@
 
 ### IDE
 [![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-0076c6?style=for-the-badge&labelColor=black&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![NeoVim](https://img.shields.io/badge/neovim-56923E?style=for-the-badge&labelColor=black&logo=neovim)](https://neovim.io)
 [![intellijidea](https://img.shields.io/badge/intellijidea-df8037?style=for-the-badge&labelColor=black&logo=intellijidea)](https://www.jetbrains.com/lp/toolbox/)
 [![pycharm](https://img.shields.io/badge/pycharm-21d789?style=for-the-badge&labelColor=black&logo=pycharm)](https://www.jetbrains.com/lp/toolbox/)
 
