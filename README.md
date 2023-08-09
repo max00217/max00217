@@ -41,19 +41,19 @@
 ___
 <p align="center">
   <a href="https://github.com/max00217">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max00217&theme=darcula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max00217&theme=gotham" />
   </a>
   <a href="https://github.com/max00217">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=max00217&hide_border=true&card_width=338&theme=darcula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=max00217&theme=gotham&hide_border=true" />
   </a>
   <a href="https://github.com/max00217">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max00217&theme=darcula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max00217&theme=gotham" />
   </a>
   <a href="https://github.com/max00217">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max00217&langs_count=7&exclude_repo=LangRecommender,ALGO&theme=darcula&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max00217&langs_count=7&exclude_repo=LangRecommender,ALGO&theme=gotham&hide_border=true"/>
   </a>
   <a href="https://github.com/max00217">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=max00217&langs_count=7&theme=darcula&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=max00217&langs_count=7&theme=gotham&hide_border=true"/>
   </a>
 </p>
 ___
