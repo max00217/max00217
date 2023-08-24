@@ -36,8 +36,8 @@
 [![pycharm](https://img.shields.io/badge/pycharm-21d789?style=for-the-badge&labelColor=black&logo=pycharm)](https://www.jetbrains.com/lp/toolbox/)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
 [![LinuxMint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&labelColor=black&logo=Linuxmint)](https://linuxmint.com)
+[![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
 ___
 <p align="center">
   <a href="https://github.com/max00217">
