@@ -16,7 +16,7 @@
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript)](https://www.python.org/)
 
-### ~Language
+### !Language
 [![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
 
 ### Technologies & Frameworks
