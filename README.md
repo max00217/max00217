@@ -7,7 +7,7 @@
     </i>
 </p>
 
-<h1 align="center">Tech Stacks</h1>
+<h1 align="center"></h1>
 
 ### Languages
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=black&logo=Lua)](https://www.lua.org)
