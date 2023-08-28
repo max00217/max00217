@@ -14,7 +14,7 @@
 [![V](https://img.shields.io/badge/V-5D87BF?style=for-the-badge&labelColor=black&logo=V)](https://vlang.io)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=kotlin)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
 ### !Language
 [![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&labelColor=black&logo=html5)](https://html.spec.whatwg.org/multipage/)
