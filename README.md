@@ -33,7 +33,7 @@
 ### OS
 [![LinuxMint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&labelColor=black&logo=Linuxmint)](https://linuxmint.com)
 [![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
-___
+
 <p align="center">
   <a href="https://github.com/max00217">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max00217&theme=rose_pine" />
@@ -51,7 +51,7 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=max00217&langs_count=7&theme=rose_pine&hide_border=true"/>
   </a>
 </p>
-___
+
   <a href="https://github.com/max00217">
     <img src="https://komarev.com/ghpvc/?username=max00217&color=738a94&style=flat" />
       <img src="https://img.shields.io/github/followers/max00217?color=738a94" />
