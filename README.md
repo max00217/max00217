@@ -23,13 +23,6 @@
 [![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&labelColor=black&logo=git)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/github-darkgray?style=for-the-badge&labelColor=black&logo=github)](https://github.com)
 
-
-### IDE
-[![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-0076c6?style=for-the-badge&labelColor=black&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![NeoVim](https://img.shields.io/badge/neovim-56923E?style=for-the-badge&labelColor=black&logo=neovim)](https://neovim.io)
-[![intellijidea](https://img.shields.io/badge/intellijidea-df8037?style=for-the-badge&labelColor=black&logo=intellijidea)](https://www.jetbrains.com/lp/toolbox/)
-[![pycharm](https://img.shields.io/badge/pycharm-21d789?style=for-the-badge&labelColor=black&logo=pycharm)](https://www.jetbrains.com/lp/toolbox/)
-
 ### OS
 [![LinuxMint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&labelColor=black&logo=Linuxmint)](https://linuxmint.com)
 [![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&labelColor=black&logo=Windows)](https://www.microsoft.com/en-us/windows/)
