@@ -1,9 +1,11 @@
-<h1 align="center">max00217's playground <img src="https://github.com/max00217/max00217/blob/main/1CFC6F34-BB31-40F6-AA72-DE250F097A90.gif" width="48px" alt="👋"></h1>
+<h1 align="center">Playground of max00217<img src="https://github.com/max00217/max00217/blob/main/1CFC6F34-BB31-40F6-AA72-DE250F097A90.gif" width="48px" alt="👋"></h1>
 
 <p align="center">
-    <b>README.md</b>  
+    <b>Welcome to my small and humble space.</b>
+    <br>
+    <b>This is a place to update hobby works.</b>
     <i>
-       <br>🌙🦦</br>
+       <br>🦦🌙</br>
     </i>
 </p>
 
